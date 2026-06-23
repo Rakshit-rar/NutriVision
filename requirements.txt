@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+torch
+transformers
+pillow
+open_clip_torch
+einops
+timm
+accelerate
